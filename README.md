@@ -1,4 +1,4 @@
 # practice-demo
-My Practice demo
+My Practice demo.
 <br>
-Author: Anirudha
+Author: Anirudha (Software developer)
